@@ -1,4 +1,13 @@
 # ai-infinity-framework-core8
+
+> ⚠️ **Public Demo Notice**  
+> This repository contains a **codified demonstration** of the **AI Infinity Framework™ Core 8** (~5% of total capability).  
+> It is provided solely for **public reference, education, and STEM ecosystem testing**.  
+>  
+> Proprietary governance-grade layers and advanced dimensions remain **confidential** and are **not included**.  
+>  
+> **Trademark:** AI Infinity Framework™ (USPTO Serial No. 98728996) — © 2025 Andre Thompson Sr. All rights reserved.
+
 AI Infinity Framework™ — Core 8 Dimensions
 Overview
 
